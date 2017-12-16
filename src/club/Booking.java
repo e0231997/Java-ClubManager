@@ -3,6 +3,7 @@ package club;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+//testing on eclipse github working
 public class Booking
 {
 	private Member member;
